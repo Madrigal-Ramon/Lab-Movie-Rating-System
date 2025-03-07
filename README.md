@@ -1,5 +1,6 @@
 # Movie Rating System
-    -This is a Java program that allows users to rate movies and provides feedback based on their ratings. The program also recommends films based on the user's favorite genre.
+-This is a Java program that allows users to rate movies and provides feedback based on their ratings. 
+    The program also recommends films based on the user's favorite genre.
 
 ## Approach
 User Input Handling:
